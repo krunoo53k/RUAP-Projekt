@@ -6,7 +6,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije Krunoslava Petrika! 0165079191 Nemamo indeks pa sam napisao JMBAG");
+            Console.WriteLine("Pozdrav iz aplikacije Krunoslava Petrika! 0165079191 Nemamo indeks pa sam napisao JMBAG može?");
         }
     }
 }
